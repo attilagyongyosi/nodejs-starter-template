@@ -1,6 +1,6 @@
 {
     "name": "@attilagyongyosi/nodejs-starter-template",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Very basic starter structure for any kind of Node.js-based development.",
     "author": {
         "name": "Attila Gyöngyösi",
