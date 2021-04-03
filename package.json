@@ -1,0 +1,16 @@
+{
+    "name": "@attilagyongyosi/nodejs-starter-template",
+    "version": "0.0.1",
+    "description": "Very basic starter structure for any kind of Node.js-based development.",
+    "author": {
+        "name": "Attila Gyöngyösi",
+        "email": "attilagyongyosi0@gmail.com",
+        "url": "https://attilagyongyosi.com"
+    },
+    "private": true,
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/attilagyongyosi/nodejs-starter-template"
+    }
+}
